@@ -1,0 +1,8 @@
+/Motor Imagery
+*/lightning_logs
+*/dataset
+*/runs
+EEG_Text/data_loading_helpers_modified.py
+EEG_Text/idk_dataset.py
+EEG_Text/*.pickle
+EEG_Text/best_model.pth
